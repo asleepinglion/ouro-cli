@@ -1,0 +1,25 @@
+{
+  "name": "superjs-cli",
+  "version": "0.8.1",
+  "description": "Build Command Line Tools with Super Powers!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asleepinglion/superjs-cli"
+  },
+  "keywords": [
+    "CLI",
+    "Command",
+    "Line",
+    "Tools"
+  ],
+  "author": "Aaron Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepinglion/superjs-cli/issues"
+  },
+  "homepage": "https://github.com/asleepinglion/superjs-cli",
+  "dependencies": {
+    "yargs": "*"
+  }
+}

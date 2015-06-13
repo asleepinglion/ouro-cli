@@ -1,4 +1,4 @@
-#SuperJS CLI
+#Ouro CLI
 ###Build Command Line Tools with Super Powers!
 
-> **Note:** SuperJS CLI is under active development and is NOT production-ready.
+> **Note:** Ouro CLI is under active development and is NOT production-ready.

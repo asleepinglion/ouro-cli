@@ -1,11 +1,11 @@
 {
-  "name": "superjs-cli",
-  "version": "0.8.2",
+  "name": "ouro-cli",
+  "version": "0.9.0",
   "description": "Build Command Line Tools with Super Powers!",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asleepinglion/superjs-cli"
+    "url": "https://github.com/asleepinglion/ouro-cli"
   },
   "keywords": [
     "CLI",
@@ -16,9 +16,9 @@
   "author": "Aaron Storck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asleepinglion/superjs-cli/issues"
+    "url": "https://github.com/asleepinglion/ouro-cli/issues"
   },
-  "homepage": "https://github.com/asleepinglion/superjs-cli",
+  "homepage": "https://github.com/asleepinglion/ouro-cli",
   "dependencies": {
     "yargs": "*"
   }

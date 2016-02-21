@@ -1,7 +1,7 @@
 {
   "name": "ouro-cli",
-  "version": "0.9.0",
-  "description": "Build Command Line Tools with Super Powers!",
+  "version": "0.9.1",
+  "description": "Quickly Build, Extend, & Customize Command Line Tools!",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/asleepinglion/ouro-cli",
   "dependencies": {
-    "yargs": "*"
+    "yargs": "*",
+    "ouro": "*"
   }
 }
